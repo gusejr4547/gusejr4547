@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 
 ![Hyeondeok Jo's GitHub stats](https://github-readme-stats.vercel.app/api?username=gusejr4547&show_icons=true&theme=radical&count_private=true)
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=guejr4547)](https://solved.ac/profile/guejr4547)
